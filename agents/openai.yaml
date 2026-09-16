@@ -1,0 +1,5 @@
+interface:
+  display_name: "Zotero MinerU Literature Workflow"
+  short_description: "Manage PDFs, MinerU Markdown, and Zotero links"
+  default_prompt: "Set up or run a Zotero plus MinerU literature workflow for this research project."
+
